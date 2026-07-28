@@ -60,9 +60,7 @@
 <td align="center">
 
 <h3>📈 Contributions</h3>
-
-<img src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=Rashi26%2Crashi-2&colors=39d353" alt="Merged contributions" />
-
+<img src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=Rashi26%2Crashi-2&colors=40baa6" alt="Merged contributions" />
 </td>
 </tr>
 </table>
