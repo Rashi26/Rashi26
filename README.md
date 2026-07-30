@@ -55,15 +55,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi26&theme=github-dark"/>
 </p>
 
-<table>
-<tr>
-<td align="center">
-
-<h3>📈 Contributions</h3>
-<img src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=Rashi26%2Crashi-2&colors=40baa6" alt="Merged contributions" />
-</td>
-</tr>
-</table>
+![](https://komarev.com/ghpvc/?username=Rashi26)
 
 ## 🌐 Connect With Me
 
